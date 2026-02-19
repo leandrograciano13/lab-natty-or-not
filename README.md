@@ -21,22 +21,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
-
+Rio de Janeiro em 2050
 ## 📒 Descrição
 Breve descrição do seu projeto
-
+Um mini-guia visual mostrando pontos turísticos icônicos com um toque de futurismo sutil, explorando a fronteira entre o real e o gerado por IA.
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT: Para roteirizar os prompts e criar as legendas "aesthetic".
+
+Leonardo.ai: Para a geração das imagens fotorrealistas.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o ChatGPT para gerar descrições detalhadas de como seria o Rio de Janeiro Futurista.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://app.leonardo.ai/generation/image/hyper-realistic-photo-futuristic-rio-janeiro-f16db33c-08c5-4a3e-a0ab-c420e9e9d549
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O maior desafio foi evitar o "vale da estranheza". Criar algo que pareça natural exige atenção aos detalhes, como sombras e reflexos, provando que a IA é uma ferramenta poderosa de co-criação.
 
 ### Exemplos e Insigths
 
